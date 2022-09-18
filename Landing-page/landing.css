@@ -208,3 +208,10 @@ ul{
     margin-top: 70px !important; 
     z-index: 10000 !important;
 }
+
+/* modal  */
+.image-modal{
+    width: 200px;
+    height: 40vh;
+    border-radius: 14px;
+}
