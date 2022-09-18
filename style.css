@@ -1,0 +1,52 @@
+section{
+    background-color: #141414;
+}
+.text_menu{
+    color: white;
+}
+.bg-header{
+    background: url(img/background-header.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img-title{
+    content: url(img/img-film.webp);
+    margin-top: 40px;
+}
+.text-netflix{
+    color: #e50914 !important;
+}
+.text-deskripsi{
+    color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.btn-play{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.style-button{
+    display: flex;
+}
+
+.btn-more{
+    height: 40px;
+    margin-top: 20px;
+}
+
+/* about us  */
+.breadcrumb{
+    margin-left: 10px;
+}
+
+ /* bootstrap alert, card, modal, form, carousel */
+
+.gap-img{
+    margin: 10px;
+}
+img{
+    /* width:100px; */
+    margin-right: 10px;
+}
