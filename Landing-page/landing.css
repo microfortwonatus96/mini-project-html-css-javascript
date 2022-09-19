@@ -18,12 +18,12 @@ body{
     z-index: 1000;
     transition: background 0.2s linear;
 }
-/* .bg-sc{
+.bg-sc{
     background-color: #0c0c0c;
 }
-.bg-trans{
-    background-color: transparent;
-} */
+.bg-w{
+    background-color: gold;
+}
 .netflix-row{
     width: 100%;
     display: flex;
